@@ -1,2 +1,2 @@
-# c-and-Winforms
+# C-and-Winforms
 Amicable number check 
